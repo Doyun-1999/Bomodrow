@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">선택과집중</string>
-    <string name="act_main">Main</string>
-    <string name="act_timer">타이머</string>
-    <string name="act_pomo">뽀모도로</string>
-    <string name="app_perhour">1시간</string>
-    <string name="act_calender">달력</string>
-</resources>
